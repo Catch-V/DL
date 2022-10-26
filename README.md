@@ -163,12 +163,14 @@
 
 ## Catch V Team
 
+
 |Name|Contact|Position|Part|
-|:—-|:—-|:—-|:—-:|:—-|
+|:----:|----|:---:|---|
 |Rok|max_sungrok@naver.com|PL|CI/CD|
 |Jihun|chlwlgnd620@naver.com|AA|DeepLearning, Back|
 |Ha|tmdqja75@gmail.com|DA|DeepLearning|
 |gangfunction|gangfunction@gmail.com|Developer|Front, Back|
 |Xilver|xilver0203@gmail.com|BA|Documentation|
+
 
 ---
